@@ -1,7 +1,7 @@
 # End-Term-Practical-Exam-PMC-103
 
 **End-Term Practical Exam Instructions:**
-**
+**Duration: 9 am to 11 am
 **This paper contains four questions. All questions are Compulsory. 
 Answers must be handwritten and create PDF file in your folder.
 Make folder of your name_universityrollno.
